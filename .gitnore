@@ -1,0 +1,6 @@
+#Gitで無視したいファイルを書く
+.vscode/
+
+**/__pycache__/
+
+.DS_Store
