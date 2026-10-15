@@ -1,5 +1,5 @@
 class SayHello:
-    def __int__(self, target="world"):
+    def __init__(self, target="world"):
         self.target = target
     
     def say(self):
